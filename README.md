@@ -17,7 +17,7 @@
 
 - 🌐 14+ years in hosting, BGP routing, KVM virtualization and cybersecurity
 - 🏢 Running **Netlen** (hosting, VPS, domains, corporate email) and **Tres Teknoloji** (cloud platform & managed IT)
-- 🛰️ Operating **AS44620** (Netlen) and **AS214195** (Tres Teknoloji), peering at DE-CIX Istanbul
+- 🛰️ Operating **AS44620** (Netlen) and **AS214195** (Tres Teknoloji)
 - ✍️ Writing about networking and infrastructure at [dogus.net.tr](https://dogus.net.tr)
 
 ---
