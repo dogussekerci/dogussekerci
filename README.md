@@ -30,6 +30,12 @@
 | **[Rasat](https://rasat.net.tr)** | Looking glass & route collector platform for Turkey's internet |
 | **[KeyZula](https://keyzula.com)** | Open, self-hostable password manager — cloud or on your own server |
 
+#### 🧰 Open source
+ 
+| Project | What it does |
+|---|---|
+| **[hosting-outbound-logger](https://github.com/dogussekerci/hosting-outbound-logger)** | eBPF-based outbound connection logger for hosting servers — built for the TRNOG community |
+
 #### 🛡️ Threat.Live — live threat map
 
 <a href="https://www.threat.live/map">
