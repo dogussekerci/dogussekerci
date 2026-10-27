@@ -29,7 +29,7 @@
 | **[Threat.Live](https://www.threat.live)** | Collective threat detection network with real-time blocking |
 | **[Rasat](https://rasat.net.tr)** | Looking glass & route collector platform for Turkey's internet |
 | **[KeyZula](https://keyzula.com)** | Open, self-hostable password manager — cloud or on your own server |
-| **[VeriMerkezi.tr](https://veri-merkezi.tr)** — Data Center Simulator | Browser-based tycoon game — design halls, power, cooling and networking in 3D |
+| **[Veri Merkezi](https://veri-merkezi.tr)** — Data Center Simulator | Browser-based tycoon game — design halls, power, cooling and networking in 3D |
 
 #### 🧰 Open source
  
